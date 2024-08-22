@@ -1,0 +1,27 @@
+*
+{
+    margin: 10px;
+}
+body
+{
+    background-color: chartreuse;
+}
+h1
+{
+    color: coral;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2
+{
+    color: blue;
+}
+img
+{
+    width: 200px;
+    height: 180px;
+}
+p
+{
+    background-color: blueviolet;
+    color: aliceblue;
+}
